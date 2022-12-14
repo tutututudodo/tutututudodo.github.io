@@ -8,7 +8,7 @@
     <link href="/2022/12/13/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2022/12/13/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
     
-    <content type="html"><![CDATA[<p>这是一篇测试文章</p><p><img src="/%E6%9C%88%E5%A4%9C.png" alt="这里是写啥的"></p>]]></content>
+    <content type="html"><![CDATA[<p>这是一篇测试文章</p><img src="/2022/12/13/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/%E6%9C%88%E5%A4%9C.png" class="" title="方法一"><p><img src="/%E6%9C%88%E5%A4%9C.png" alt="方法二"></p>]]></content>
     
     
     
