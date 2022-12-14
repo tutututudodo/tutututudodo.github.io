@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>测试文章</title>
+    <link href="/2022/12/13/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <url>/2022/12/13/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    
+    <content type="html"><![CDATA[<p>这是一篇测试文章</p><p><img src="/%E6%9C%88%E5%A4%9C.png" alt="这里是写啥的"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title></title>
     <link href="/2022/12/12/hello-world/"/>
     <url>/2022/12/12/hello-world/</url>
